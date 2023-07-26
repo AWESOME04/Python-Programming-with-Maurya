@@ -32,6 +32,11 @@ Feel free to explore the projects in their respective directories. Each project 
 
 I want to express my gratitude to the team at Programming with Maurya for providing the excellent Python programming training course.
 
+## Certificate of Completion @ PWM:
+
+![PWM cert](https://github.com/AWESOME04/Python-Programming-with-Maurya/assets/102630199/5a2afc2f-fe18-4bd4-a408-36d403d54eb2)
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
